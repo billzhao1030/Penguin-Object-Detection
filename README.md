@@ -9,4 +9,4 @@ In this KIT315 project,  an machine learning application that can help us detect
   <li><b><i>Pygoscelis Antarciticus (Chinstrap Penguin)</i></b></li>
 </ul>
 <br>
-Environment uses: Google Colab (https://colab.research.google.com/)
+Environment use: Google Colab (https://colab.research.google.com/)
